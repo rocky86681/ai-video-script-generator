@@ -218,10 +218,4 @@ ai-video-script-generator/
 
 ---
 
-## 📄 License
 
-This project is created for educational purposes as part of a college final-year project.
-
----
-
-*Built with ❤️ using FastAPI, React, and OpenAI GPT*
