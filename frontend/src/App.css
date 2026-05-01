@@ -1,0 +1,7 @@
+/* App-level layout styles */
+
+main {
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+}
